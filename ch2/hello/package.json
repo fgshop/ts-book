@@ -1,0 +1,24 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "Study TypeScript",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fgshop/ts-book.git"
+  },
+  "keywords": [
+    "fgshop",
+    "typescript",
+    "blockchain"
+  ],
+  "author": "Danny Hwang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fgshop/ts-book/issues"
+  },
+  "homepage": "https://github.com/fgshop/ts-book#readme"
+}
